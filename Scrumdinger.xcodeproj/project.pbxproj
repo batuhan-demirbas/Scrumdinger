@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D52DCCE52B1482B800333311 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52DCCE42B1482B800333311 /* DetailView.swift */; };
+		D52DCCE72B14AC9300333311 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52DCCE62B14AC9300333311 /* DetailEditView.swift */; };
 		D531C2C52B13782400A77298 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = D531C2C42B13782400A77298 /* Theme.swift */; };
 		D531C2C72B1379DD00A77298 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = D531C2C62B1379DD00A77298 /* DailyScrum.swift */; };
 		D531C2CB2B137B6C00A77298 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D531C2CA2B137B6C00A77298 /* CardView.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		D52DCCE42B1482B800333311 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		D52DCCE62B14AC9300333311 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		D531C2C42B13782400A77298 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		D531C2C62B1379DD00A77298 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		D531C2CA2B137B6C00A77298 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				D531C2CA2B137B6C00A77298 /* CardView.swift */,
 				D531C2CE2B146D6400A77298 /* ScrumView.swift */,
 				D52DCCE42B1482B800333311 /* DetailView.swift */,
+				D52DCCE62B14AC9300333311 /* DetailEditView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 			files = (
 				D531C2C72B1379DD00A77298 /* DailyScrum.swift in Sources */,
 				D52DCCE52B1482B800333311 /* DetailView.swift in Sources */,
+				D52DCCE72B14AC9300333311 /* DetailEditView.swift in Sources */,
 				D531C2CD2B13838700A77298 /* TrailingIconLabelStyle.swift in Sources */,
 				D531C2CF2B146D6400A77298 /* ScrumView.swift in Sources */,
 				D531C2C52B13782400A77298 /* Theme.swift in Sources */,
